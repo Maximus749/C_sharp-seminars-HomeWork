@@ -51,7 +51,6 @@ int[,] MultMatrix(int row, int col, int[,] array1, int[,] array2)
             
         }
     }    
-    
     return array3;
 }
 
